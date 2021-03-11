@@ -1,0 +1,10 @@
+Num1 = int(input())
+Num2 = int(input())
+print (Num1 + Num2)
+
+#to use the calculator, first enter any number, then press the enter/return key, then enter your second number as shown below.
+
+#|4
+#|5
+
+#If you do this correctly, you should get the answer. the answer for the question above is 9.
